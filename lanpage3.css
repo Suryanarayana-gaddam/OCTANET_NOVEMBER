@@ -1,0 +1,13 @@
+body{
+          background-image: url("HTML Pictures/img_girl.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      #u1{
+        color:red;
+        font-size:20px ;
+        }
+      #u2{
+      color:blue;
+      font-size:20px ;
+      }
