@@ -1,0 +1,24 @@
+body{
+            background-color: #ACD8E5;
+            width: 100%;
+            margin-left: 0px;
+            margin-top: 0px;
+        }
+        h1{
+            font-family:chiller; 
+            color:blue;  
+            font-size: 40px;
+            text-align:center;
+        }
+        
+        
+        table{
+            border-collapse: collapse;
+        }
+        #td1{
+            border-top:2px solid black;
+        }
+        #td2{
+            border-top:2px solid black;
+            border-left:2px solid black;
+        }
