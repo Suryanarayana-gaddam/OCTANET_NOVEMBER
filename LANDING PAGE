@@ -35,8 +35,8 @@
     <h1>Bubba's world</h1>
     <table>
         <tr>
-            <td id="td1"><iframe src="html50.html" id="if1" name="iframe_a" width="130px" height="350px"></iframe></td>
-            <td id="td2"><iframe src="html52.html" id="if2" name="iframe_b" width="700px" height="350px"></iframe></td>
+            <td id="td1"><iframe src="lanpage50.html" id="if1" name="iframe_a" width="130px" height="350px"></iframe></td>
+            <td id="td2"><iframe src="lanpage52.html" id="if2" name="iframe_b" width="700px" height="350px"></iframe></td>
         </tr>
     </table>
 </body>
